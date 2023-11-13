@@ -19,11 +19,11 @@ Before you begin, ensure you have Flutter and Dart installed on your local machi
 ```bash
 cd WidgetsPractice
 ```
-### Install dependencies:
+## Install dependencies:
 ```
 flutter pub get
 ```
-###Running the App
+##Running the App
 To run the app on an emulator or a connected device, use the following command:
 ```
 flutter run
