@@ -17,12 +17,12 @@ Before you begin, ensure you have Flutter and Dart installed on your local machi
 Navigate to the project directory:
 
 ``bash
-Copy code
 cd WidgetsPractice
+
+
 Install dependencies:
 
 ``bash
-Copy code
 flutter pub get
 Running the App
 To run the app on an emulator or a connected device, use the following command:
