@@ -1,22 +1,19 @@
-#Widgets Practice App
-This Flutter app is created for testing and practicing two types of widgets, Stateless and Statefull widgets. It includes a splash screen, a greeting widget with customizable messages, and a counter widget with a button to increment the counter.
+# WidgetsPractice
 
-#Getting Started
+A new Flutter project created with FlutLab - https://flutlab.io
 
-#Prerequisites
+## Getting Started
 
-Before you begin, ensure you have Flutter and Dart installed on your local machine. If not, follow the instructions on the official Flutter website.
+A few resources to get you started if this is your first Flutter project:
 
-#Installation
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
 
-Clone the repository:
-    git clone https://github.com/your-username/widgets_practice.git
-Navigate to the project directory:
-    cd WidgetsPractice
-Install dependencies:
-    flutter pub get
-Running the App
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-To run the app on an emulator or a connected device, use the following command:
+## Getting Started: FlutLab - Flutter Online IDE
 
-flutter run
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
