@@ -14,15 +14,10 @@ Before you begin, ensure you have Flutter and Dart installed on your local machi
    ```bash
    git clone https://github.com/your-username/widgets_practice.git
 
-Navigate to the project directory:
+## Navigate to the project directory:
 
-``bash
+```bash
 cd WidgetsPractice
 
 
-Install dependencies:
 
-``bash
-flutter pub get
-Running the App
-To run the app on an emulator or a connected device, use the following command:
