@@ -23,11 +23,27 @@ cd WidgetsPractice
 ```
 flutter pub get
 ```
-##Running the App
+## Running the App
 To run the app on an emulator or a connected device, use the following command:
 ```
 flutter run
 ```
+## App Structure
+* Splash Screen
+The app starts with a splash screen displaying a welcome message and transitions to the main page after a delay.
+
+  -Main Page
+Greeting Widget: Displays a customizable greeting message in a larger and bold font. 
+Counter Widget: A stateful widget with a counter value and buttons for:
+* Incrementing the counter
+* Resetting the counter
+* Toggling dark mode
+
+## Acknowledgments
+
+Special thanks to the Flutter community for their valuable contributions.
+Feel free to customize this template based on your specific app details and development practices.
+
 
 
 
