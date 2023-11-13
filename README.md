@@ -16,12 +16,12 @@ Before you begin, ensure you have Flutter and Dart installed on your local machi
 
 Navigate to the project directory:
 
-bash
+``bash
 Copy code
 cd WidgetsPractice
 Install dependencies:
 
-bash
+``bash
 Copy code
 flutter pub get
 Running the App
